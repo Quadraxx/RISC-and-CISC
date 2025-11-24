@@ -52,6 +52,5 @@ Bu depo, araştırma ödevi için gerekli tüm kaynak ve nihai dosyaları içerm
 | Kategori | Detay |
 | :--- | :--- |
 | **Hazırlayan** | Hüseyin Akın |
-| **Bölüm/Okul** | Torul Meslek Yüksekokulu (Torul MYO) *(Kaydedilen Bilgi Kullanıldı)* |
+| **Bölüm/Okul** | Torul Meslek Yüksekokulu (Torul MYO) *(TORULMESLEKYUKSEKOKULU)* |
 | **Tarih** | 24 Kasım 2025 |
-| **Ders Sorumlusu** | Donanım Dersi Hocası *(Sizin belirlediğiniz isim buraya gelebilir.)* |
