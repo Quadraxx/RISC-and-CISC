@@ -21,8 +21,8 @@ Bu depo, araştırma ödevi için gerekli tüm kaynak ve nihai dosyaları içerm
 
 | Dosya Adı | Açıklama |
 | :--- | :--- |
-| `CISC_ve_RISC_Mimarisi_Odevi_Huseyin_Akin.pdf` | Ödevin nihai ve baskıya hazır halidir. **(PDF formatında yüklenmesi tavsiye edilir.)** |
-| `CISC_ve_RISC_Mimarisi_Odevi_Huseyin_Akin.docx` | Ödevin orijinal metin dosyası. (Gerekli düzenlemeler için.) |
+| `CISC_ve_RISC_Mimarisi.pdf` | Ödevin nihai ve baskıya hazır halidir. **(PDF formatında yüklenmesi tavsiye edilir.)** |
+| `CISC_ve_RISC_Mimarisi.docx` | Ödevin orijinal metin dosyası. (Gerekli düzenlemeler için.) |
 | `README.md` | Bulunduğunuz dosya. Depo hakkında genel bilgileri sunar. |
 
 ---
